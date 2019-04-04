@@ -41,6 +41,7 @@ div:last-child {
 #featured-section {
   position: relative;
   height: 375px;
+  padding-bottom: 30px;
 }
 #featured-section:first-child {
   float: left;
